@@ -1,9 +1,9 @@
-asgiref==3.8.1
-dj-database-url==2.3.0
-Django==5.0.7
-djangorestframework==3.15.2
-gunicorn==21.2.0
-psycopg2-binary==2.9.9
-sqlparse==0.5.1
-tzdata==2024.1
+Django==5.2.5
+djangorestframework==3.16.1
+gunicorn
 whitenoise==6.7.0
+psycopg2-binary
+dj-database-url
+sqlparse
+asgiref
+tzdata
